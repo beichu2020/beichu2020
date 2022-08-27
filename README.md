@@ -10,3 +10,5 @@ This project is aimed at estimating the attitude of Attitude Heading and Referen
 
 来自大师 priseborough，包括EKF,GSF_EKF,IMMEKF,PF,UKF滤波融合算法实现，非常适合入门学习分析。
 
+## 3 Ardupilot的EKF算法（https://github.com/beichu2020/InertialNav）
+来自大师 priseborough，深入飞控滤波算法这个非常有价值。
