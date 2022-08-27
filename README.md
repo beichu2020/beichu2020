@@ -5,3 +5,8 @@ This project is aimed at estimating the attitude of Attitude Heading and Referen
 - Mahony's algorithm
 - Extend Kalman Filter(EKF)
 - Error State Kalman Filter(ESKF)
+
+## 2 经典卡尔曼算法对比 (https://github.com/beichu2020/3_state_filter)
+
+来自大师 priseborough，包括EKF,GSF_EKF,IMMEKF,PF,UKF滤波融合算法实现，非常适合入门学习分析。
+
