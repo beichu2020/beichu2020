@@ -31,3 +31,8 @@ Stable Diffusion is a latent text-to-image diffusion model. Thanks to a generous
 [这里是一个学习本项目的一个collection](https://github.com/Maks-s/sd-akashic)
 This repository is a collection of studies, art styles, prompts and other useful tools you can use throughout your exploration of the latent space.
 As Stable Diffusion is still in beta and subject to lots of changes, the Records will often change to reflect new information.
+
+[这里是一个简单的教程](https://andys.page/posts/how-to-draw/)
+Watching a vibrant Seattle sunset the other day, my imagination started running. The otherworldly hue of the sky evoked something from science fiction. The hazy orange-purple was mesmerizing.
+
+
