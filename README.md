@@ -22,3 +22,12 @@ This project is aimed at estimating the attitude of Attitude Heading and Referen
 
 # 2 GUI
 ## 1 [LVGL在STM32F405RG上的尝试，效果惊艳](https://github.com/beichu2020/LVGL-STM32F405RG)
+
+# 3 AI
+## 1 [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+从草图生成高清的细节图像，非常Nice.
+Stable Diffusion is a latent text-to-image diffusion model. Thanks to a generous compute donation from Stability AI and support from LAION, we were able to train a Latent Diffusion Model on 512x512 images from a subset of the LAION-5B database. Similar to Google's Imagen, this model uses a frozen CLIP ViT-L/14 text encoder to condition the model on text prompts. With its 860M UNet and 123M text encoder, the model is relatively lightweight and runs on a GPU with at least 10GB VRAM. See this section below and the model card.
+
+[这里是一个学习本项目的一个collection](https://github.com/Maks-s/sd-akashic)
+This repository is a collection of studies, art styles, prompts and other useful tools you can use throughout your exploration of the latent space.
+As Stable Diffusion is still in beta and subject to lots of changes, the Records will often change to reflect new information.
