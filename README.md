@@ -1,3 +1,8 @@
+# 0 Info
+## 1 [weekly](https://github.com/ruanyf/weekly)
+科技爱好者周刊
+记录每周值得分享的科技内容，周五发布。
+
 # 1 算法
 ## 1 [IMU_Attitude_Estimator](https://github.com/beichu2020/IMU_Attitude_Estimator)
 
