@@ -35,4 +35,21 @@ As Stable Diffusion is still in beta and subject to lots of changes, the Records
 [这里是一个简单的教程](https://andys.page/posts/how-to-draw/)
 Watching a vibrant Seattle sunset the other day, my imagination started running. The otherworldly hue of the sky evoked something from science fiction. The hazy orange-purple was mesmerizing.
 
+# 4 数字货币|加密货币|数字钱包
+## 1 [数字钱包](https://github.com/OneKeyHQ/firmware)
+OneKey
+🔑 OneKey is the smartest way to secure, buy, exchange and grow your crypto assets. Learn more here.
 
+make something people want
+
+🗳️ Your crypto, in your hands
+OneKey will not store your private keys or recovery seed, all our hardware and software are open source.
+
+👶 Simple yet secure
+Use the OneKey App by itself or with the hardware, keeping it simple for beginners without compromising on security.
+
+👁️ Truly open source
+Open source means that we don't hide any code and are open to inspection by everyone, which takes courage and commitment.
+
+🔐 End-to-end encryption
+OneKey uses industry-leading encryption technology to store your information locally. Only you can decrypt that information.
