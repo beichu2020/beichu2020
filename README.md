@@ -53,3 +53,25 @@ Open source means that we don't hide any code and are open to inspection by ever
 
 🔐 End-to-end encryption
 OneKey uses industry-leading encryption technology to store your information locally. Only you can decrypt that information.
+
+#5 相角摄像机 | IPC
+## 1 [openmiko](https://github.com/openmiko/openmiko)
+OpenMiko is custom opensource firmware for cameras that use the Ingenic T20 chip. These cameras include the Wyzecam V2 and Xiaomi Xiaofang.
+
+The firmware aims to provide an an alternative to the closed source out of box firmwares which can often be riddled with bugs and security holes. Privacy is also a concern as it is difficult to tell if out of box firmware reaches out to other servers or is broadcasting metadata.
+支持方案Ingenic T20X (128Mb DDR)：Wyze Cam V2 | Xiaomi Dafang | Wyze Cam Pan
+君正T20全高清智能视频应用处理器是一款智能视频应用处理器，针对像移动相机、安全调查、视频通话、视频分析等视频设备。这种SOC引入了一种创新的architec。确保满足高性能计算和高质量的图像和视频编码要求。提供T20高速CPU计算能力，出色的图像信号处理，FLUENT 2048x1536分辨率录像。
+
+CPU核心，配备32KB指令和32KB数据级1高速缓存，128KB二级高速缓存，工作频率为1GHz，全功能MMU功能执行操作系统相关任务 在CPU核心的核心是XBurst处理器引擎。XBurst是业界领先的微处理器内核，可提供卓越的高性能和一流的低功耗。此外，还包括与IEEE 754兼容的浮点单元。MXU2.0(SIMD 128)指令集由XBurst Engine实现，是CPU的一部分。
+
+有了强大的cpu，t20支持各种计算机视觉应用，如人脸检测、人体检测、手势识别等，人们也可以开发新的计算机视觉应用。离子使用MXU2.0加速它。
+
+VPU(视频处理单元)核心由另一个XBurst处理器引擎驱动。T20与片上视频加速引擎和后处理单元一起提供高视频性能。编码支持最大分辨率为2048x1536的H.264格式。同时支持1080 p@30 fps和d1@30 fps，具有最大的性能。
+
+为了更快、更容易地使用T20，集成了一个512 Mbit DDR2。
+
+片内模块(如音频编解码器、多通道SAR-ADC控制器和摄像头接口)为设计人员提供了一套经济实用的用于视频应用的外设。WLAN、蓝牙和扩展选项 通过高速spi和MMC/SD/SDIO主机控制器支持离子。其他外设，例如USBOTG、UART和SPI以及通用系统资源提供了足够的计算和连接 适用于许多应用程序。
+
+下面是另一个君正方案IPC固件
+If you have a device with a Ingenic T10 SOC, consider using for now https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks
+
