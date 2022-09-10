@@ -60,6 +60,7 @@ OpenMiko is custom opensource firmware for cameras that use the Ingenic T20 chip
 
 The firmware aims to provide an an alternative to the closed source out of box firmwares which can often be riddled with bugs and security holes. Privacy is also a concern as it is difficult to tell if out of box firmware reaches out to other servers or is broadcasting metadata.
 支持方案Ingenic T20X (128Mb DDR)：Wyze Cam V2 | Xiaomi Dafang | Wyze Cam Pan
+
 君正T20全高清智能视频应用处理器是一款智能视频应用处理器，针对像移动相机、安全调查、视频通话、视频分析等视频设备。这种SOC引入了一种创新的architec。确保满足高性能计算和高质量的图像和视频编码要求。提供T20高速CPU计算能力，出色的图像信号处理，FLUENT 2048x1536分辨率录像。
 
 CPU核心，配备32KB指令和32KB数据级1高速缓存，128KB二级高速缓存，工作频率为1GHz，全功能MMU功能执行操作系统相关任务 在CPU核心的核心是XBurst处理器引擎。XBurst是业界领先的微处理器内核，可提供卓越的高性能和一流的低功耗。此外，还包括与IEEE 754兼容的浮点单元。MXU2.0(SIMD 128)指令集由XBurst Engine实现，是CPU的一部分。
