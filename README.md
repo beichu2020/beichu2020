@@ -54,7 +54,7 @@ Open source means that we don't hide any code and are open to inspection by ever
 🔐 End-to-end encryption
 OneKey uses industry-leading encryption technology to store your information locally. Only you can decrypt that information.
 
-# 5 相角摄像机 | IPC
+# 5 相机摄像机 | IPC
 ## 1 [openmiko](https://github.com/openmiko/openmiko)
 OpenMiko is custom opensource firmware for cameras that use the Ingenic T20 chip. These cameras include the Wyzecam V2 and Xiaomi Xiaofang.
 
